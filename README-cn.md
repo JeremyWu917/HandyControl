@@ -14,7 +14,10 @@
     <img alt="IDE-version" src="https://img.shields.io/badge/IDE-vs2019-blue.svg"></img>
     <a href="https://www.nuget.org/packages/HandyControl">
         <img alt="nuget-version" src="https://img.shields.io/nuget/v/HandyControl.svg"></img>
-    </a> 
+    </a>
+    <a href="https://www.myget.org/feed/handycontrol/package/nuget/HandyControl">
+        <img alt="myget-version" src="https://img.shields.io/myget/handycontrol/v/handycontrol?color=orange&label=myget"></img>
+    </a>  
     <a href="https://github.com/HandyOrg/HandyControl/actions?query=workflow%3Abuild">
         <img alt="Github-build-status" src="https://github.com/HandyOrg/HandyControl/workflows/build/badge.svg"></img>
     </a>
@@ -25,6 +28,12 @@
         <img alt="Nuget" src="https://img.shields.io/nuget/dt/handycontrol"></img>
     </a> 
 </p>
+
+## 特别声明
+
+HandyControl 项目已加入 [dotNET China](https://gitee.com/dotnetchina)  组织。<br/>
+
+![dotnetchina](https://images.gitee.com/uploads/images/2021/0324/120117_2da9922c_416720.png "132645_21007ea0_974299.png")
 
 ## 面向中国
 
@@ -44,7 +53,7 @@
 
 | | 西江月群 | 定风波群 |
 |-|:-:|:-:|
-| 群号码 | [![qq-group](https://img.shields.io/badge/qq-714704041-red.svg)](//shang.qq.com/wpa/qunwpa?idkey=a571e5553c9d41e49c4f22f3a8b2865451497a795ff281fedf3285def247efc1) | [![qq-group](https://img.shields.io/badge/qq-858784803-red.svg)](//shang.qq.com/wpa/qunwpa?idkey=5c18622a0f6ee07a6f33afa8cdb85b1f72ea50e878271dfcec919c76b55afee7) | 微信群 |
+| 群号码 | [![qq-group](https://img.shields.io/badge/qq-714704041-red.svg)](//shang.qq.com/wpa/qunwpa?idkey=a571e5553c9d41e49c4f22f3a8b2865451497a795ff281fedf3285def247efc1) | [![qq-group](https://img.shields.io/badge/qq-858784803-red.svg)](//shang.qq.com/wpa/qunwpa?idkey=5c18622a0f6ee07a6f33afa8cdb85b1f72ea50e878271dfcec919c76b55afee7) |
 | 二维码 | ![qq-group](https://gitee.com/handyorg/HandyOrgResource/raw/master/HandyControl/Resources/qq_group_1.png) | ![qq-group](https://gitee.com/handyorg/HandyOrgResource/raw/master/HandyControl/Resources/qq_group_2.png) |
 
 * 为我们购买防脱洗发水 （支付宝扫码）  
@@ -78,6 +87,7 @@
 <a href="https://github.com/cuiliang" target="_blank"><img style="border-radius:50%!important" width="64px" alt="cuiliang" src="https://avatars2.githubusercontent.com/u/1972649?s=64&v=4"></a>
 <a href="https://github.com/lwqwag" target="_blank"><img style="border-radius:50%!important" width="64px" alt="lwqwag" src="https://avatars3.githubusercontent.com/u/29883542?s=64&v=4"></a>
 <a href="https://github.com/Epacik" target="_blank"><img style="border-radius:50%!important" width="64px" alt="Epacik" src="https://avatars.githubusercontent.com/u/23077337?s=64&v=4"></a>
+<a href="https://github.com/ChoKaPeek" target="_blank"><img style="border-radius:50%!important" width="64px" alt="ChoKaPeek" src="https://avatars.githubusercontent.com/u/16904907?s=64&v=4"></a>
 
 ## 赞助者
 
@@ -113,6 +123,16 @@
 <a href="https://github.com/inows" target="_blank"><img style="border-radius:50%!important" width="64px" alt="inows" src="https://avatars.githubusercontent.com/u/15324558?s=64&v=4"></a>
 <a href="https://github.com/oo-simbo" target="_blank"><img style="border-radius:50%!important" width="64px" alt="oo-simbo" src="https://avatars.githubusercontent.com/u/49231532?s=64&v=4"></a>
 <a href="https://github.com/775253959" target="_blank"><img style="border-radius:50%!important" width="64px" alt="775253959" src="https://avatars.githubusercontent.com/u/24452103?s=64&v=4"></a>
+<a href="https://github.com/IanXxu" target="_blank"><img style="border-radius:50%!important" width="64px" alt="IanXxu" src="https://avatars.githubusercontent.com/u/19760451?s=64&v=4"></a>
+<a href="https://github.com/NightwishMeng" target="_blank"><img style="border-radius:50%!important" width="64px" alt="NightwishMeng" src="https://avatars.githubusercontent.com/u/32695316?s64&v=4"></a>
+<a href="https://github.com/tonghudan" target="_blank"><img style="border-radius:50%!important" width="64px" alt="tonghudan" src="https://avatars.githubusercontent.com/u/14705603?s=64&v=4"></a>
+<a href="https://github.com/Removable" target="_blank"><img style="border-radius:50%!important" width="64px" alt="Removable" src="https://avatars.githubusercontent.com/u/7271713?s=64&v=4"></a>
+<a href="https://github.com/nicecodeclub" target="_blank"><img style="border-radius:50%!important" width="64px" alt="nicecodeclub" src="https://avatars.githubusercontent.com/u/12929071?s=64&v=4"></a>
+<a href="https://github.com/Jajison" target="_blank"><img style="border-radius:50%!important" width="64px" alt="Jajison" src="https://avatars.githubusercontent.com/u/60476418?s=64&v=4"></a>
+<a href="https://github.com/xyghy13" target="_blank"><img style="border-radius:50%!important" width="64px" alt="xyghy13" src="https://avatars.githubusercontent.com/u/27751725?s=64&v=4"></a>
+<a href="https://github.com/icarousfff" target="_blank"><img style="border-radius:50%!important" width="64px" alt="icarousfff" src="https://avatars.githubusercontent.com/u/49859230?s=64&v=4"></a>
+<a href="https://github.com/qiang9420d" target="_blank"><img style="border-radius:50%!important" width="64px" alt="qiang9420d" src="https://avatars.githubusercontent.com/u/22925262?s=64&v=4"></a>
+<a href="https://github.com/zhongwcool" target="_blank"><img style="border-radius:50%!important" width="64px" alt="zhongwcool" src="https://avatars.githubusercontent.com/u/5747392?s=64&v=4"></a>
 
 ## 鸣谢
 
@@ -120,6 +140,14 @@
 [![JetBrains](https://gitee.com/handyorg/HandyOrgResource/raw/master/HandyControl/Resources/resharper_logo.png)](https://www.jetbrains.com/?from=HandyControl)
 [![Cake](https://gitee.com/handyorg/HandyOrgResource/raw/master/HandyControl/Resources/cake_logo.png)](https://cakebuild.net/)
 [![Gitter](https://gitee.com/handyorg/HandyOrgResource/raw/master/HandyControl/Resources/gitter_logo.png)](https://gitter.im/)
+
+## 使用HandyControl的项目
+
+<a href="https://getquicker.net" target="_blank"><img width="70px" alt="quicker" src="https://files.getquicker.net/_sitefiles/quicker_round_128.png"></a>
+<a href="https://www.phpenv.cn" target="_blank"><img width="70px" alt="phpenv" src="https://www.phpenv.cn/usr/themes/phpenv/img/logo.png"></a>
+<a href="https://atmb.top" target="_blank"><img width="70px" alt="AutumnBox" src="https://atmb.top/images/icon.png"></a>
+
+if your project is not listed here, let us know! 😀
 
 ## 用法
 
@@ -146,7 +174,7 @@ Step 4: Enjoy coding
 
 ## VS插件
 
-| [VS2019](https://marketplace.visualstudio.com/items?itemName=HandyOrg.handycontrolforvs2019) |
+| [VS2019](https://marketplace.visualstudio.com/items?itemName=HandyOrg.HandyControl) |
 | ------------- |
 
 ## Star趋势
